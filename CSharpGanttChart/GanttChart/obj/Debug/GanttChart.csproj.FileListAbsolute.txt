@@ -1,0 +1,19 @@
+C:\CindyOakesCodeProject\CSharpGanttChart\GanttChart\bin\Debug\GanttChart.exe.config
+C:\CindyOakesCodeProject\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.csprojResolveAssemblyReference.cache
+C:\CindyOakesCodeProject\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.Properties.Resources.resources
+C:\CindyOakesCodeProject\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.csproj.GenerateResource.Cache
+C:\CindyOakesCodeProject\CSharpGanttChart\GanttChart\bin\Debug\GanttChart.exe
+C:\CindyOakesCodeProject\CSharpGanttChart\GanttChart\bin\Debug\GanttChart.pdb
+C:\CindyOakesCodeProject\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.exe
+C:\CindyOakesCodeProject\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.pdb
+C:\CindyOakesCodeProject\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.Form1.resources
+C:\Users\yiannos.georgantas\OneDrive - Travel Counsellors\Code\CSharpGanttChart\GanttChart\bin\Debug\GanttChart.exe.config
+C:\Users\yiannos.georgantas\OneDrive - Travel Counsellors\Code\CSharpGanttChart\GanttChart\bin\Debug\GanttChart.exe
+C:\Users\yiannos.georgantas\OneDrive - Travel Counsellors\Code\CSharpGanttChart\GanttChart\bin\Debug\GanttChart.pdb
+C:\Users\yiannos.georgantas\OneDrive - Travel Counsellors\Code\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.csprojAssemblyReference.cache
+C:\Users\yiannos.georgantas\OneDrive - Travel Counsellors\Code\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.Form1.resources
+C:\Users\yiannos.georgantas\OneDrive - Travel Counsellors\Code\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.Properties.Resources.resources
+C:\Users\yiannos.georgantas\OneDrive - Travel Counsellors\Code\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.csproj.GenerateResource.cache
+C:\Users\yiannos.georgantas\OneDrive - Travel Counsellors\Code\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.csproj.CoreCompileInputs.cache
+C:\Users\yiannos.georgantas\OneDrive - Travel Counsellors\Code\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.exe
+C:\Users\yiannos.georgantas\OneDrive - Travel Counsellors\Code\CSharpGanttChart\GanttChart\obj\Debug\GanttChart.pdb
